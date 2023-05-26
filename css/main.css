@@ -1,0 +1,54 @@
+body {
+    background-color: brown;
+    background-image: url("../ramlar/s22ultra.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center 250px;/* x(left,center,right),y(top,center)*/
+}
+.text{
+    /*color: white;
+    border: 5px solid white;
+    border-top-width: 1px;
+    border-right-width: 3px;
+    border-bottom-width: 2px;
+    border-left-width: 4px;
+    border-top-style:double ;
+    border-right-style: dotted;
+    border-bottom-style: groove;
+    border-left-style: dashed;
+    border-top-color: green;
+    border-right-color: blue;
+    border-bottom-color: black;
+    border-left-color: aqua;*/
+    text-align: center; /* left(default - dastlabki holati), center,right*/
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: 5px;
+    word-spacing: 12px;
+    line-height: 15px;
+}
+
+.block{
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    /*min-width: 50px;
+    min-height: 50px;*/
+    /*max-width: 500px;
+    max-height: 150px;*/
+    /*margin: 50px 150px;*/
+    /*margin-top: 50px;
+    /*margin-right:150px*/
+    /*margin-bottom: 25px;*/
+    /*margin-left: 10px;*/
+    /*margin: 100px auto;*/
+    /*padding: 50px 150px 25px 110px;*/
+    /*padding-top: 50px;*/
+    /*padding-right: 150px;*/
+    /*padding-bottom: 25px;*/
+    /*padding-left: 110px;*/
+    box-sizing: border-box;
+}
+
+
+
